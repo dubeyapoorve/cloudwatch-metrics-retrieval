@@ -26,6 +26,6 @@ The script fetches metrics (e.g., CPUUtilization, Latency, DatabaseConnections) 
 
 3. Run the script with required parameters:
 
-   bash cloudwatch_metrics.sh <AWS-RESOURCE-ID> <METRIC-NAME> <START-TIME> <END-TIME>
+   bash cloudwatch_metrics.sh <<AWS-RESOURCE-ID>> <<AWS-RESOURCE-ID>> <<METRIC-NAME>> <<START-TIME>> <<END-TIME>>
 
 Replace AWS-RESOURCE-ID, METRIC-NAME, START-TIME and END-TIME with actual values.
